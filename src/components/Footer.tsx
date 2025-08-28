@@ -11,9 +11,9 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-primary rounded-md flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">S</span>
+                <span className="text-primary-foreground font-bold text-lg">U</span>
               </div>
-              <span className="font-bold text-xl text-foreground">Synergy Construction</span>
+              <span className="font-bold text-xl text-foreground">U N I Construction</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Building tomorrow's infrastructure with precision, innovation, and commitment to excellence.
@@ -89,7 +89,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-muted-foreground">
                 <Mail className="w-4 h-4 text-primary" />
-                <span>info@synergyconst.com</span>
+                <span>info@uniconstruction.com</span>
               </div>
               <div className="flex items-start space-x-3 text-muted-foreground">
                 <MapPin className="w-4 h-4 text-primary mt-0.5" />
@@ -108,7 +108,7 @@ const Footer = () => {
 
         <div className="border-t border-border/40 mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground">
-            © 2024 Synergy Construction. All rights reserved.
+            © 2024 U N I Construction. All rights reserved.
           </p>
           <div className="flex space-x-4 mt-4 sm:mt-0">
             <Link to="/privacy" className="text-sm text-muted-foreground hover:text-primary transition-colors">

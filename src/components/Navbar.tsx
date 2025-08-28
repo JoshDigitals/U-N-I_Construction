@@ -26,9 +26,9 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-primary rounded-md flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">S</span>
+              <span className="text-primary-foreground font-bold text-lg">U</span>
             </div>
-            <span className="font-bold text-xl text-foreground">Synergy Construction</span>
+            <span className="font-bold text-xl text-foreground">U N I Construction</span>
           </Link>
 
           {/* Desktop Navigation */}

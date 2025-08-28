@@ -66,7 +66,7 @@ const Home = () => {
     {
       name: 'Sarah Johnson',
       role: 'Homeowner',
-      content: 'Synergy Construction transformed our vision into reality. The attention to detail and professionalism was outstanding.',
+      content: 'U N I Construction transformed our vision into reality. The attention to detail and professionalism was outstanding.',
       rating: 5
     },
     {
@@ -78,7 +78,7 @@ const Home = () => {
     {
       name: 'Lisa Rodriguez',
       role: 'Property Developer',
-      content: 'Working with Synergy has been a game-changer for our development projects. Quality and reliability you can trust.',
+      content: 'Working with U N I has been a game-changer for our development projects. Quality and reliability you can trust.',
       rating: 5
     }
   ];
@@ -98,7 +98,7 @@ const Home = () => {
               <span className="text-primary block">Infrastructure Today</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Synergy Construction delivers exceptional construction services with unwavering commitment 
+              U N I Construction delivers exceptional construction services with unwavering commitment 
               to quality, safety, and innovation. Your vision, our expertise.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -211,7 +211,7 @@ const Home = () => {
                 Excellence in Every Project
               </h2>
               <p className="text-muted-foreground mb-8">
-                With over a decade of experience, Synergy Construction has earned a reputation 
+                With over a decade of experience, U N I Construction has earned a reputation 
                 for delivering exceptional results on time and within budget.
               </p>
               <div className="space-y-4 mb-8">

@@ -100,7 +100,7 @@ const Contact = () => {
                     <Mail className="w-6 h-6 text-primary" />
                     <div>
                       <h3 className="font-semibold">Email</h3>
-                      <p className="text-muted-foreground">info@synergyconst.com</p>
+                      <p className="text-muted-foreground">info@uniconstruction.com</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-3 mb-4">

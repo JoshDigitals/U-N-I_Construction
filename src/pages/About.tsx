@@ -39,7 +39,7 @@ const About = () => {
   ];
 
   const timeline = [
-    { year: '2010', event: 'Synergy Construction Founded', description: 'Started as a small residential construction company' },
+    { year: '2010', event: 'U N I Construction Founded', description: 'Started as a small residential construction company' },
     { year: '2013', event: 'Commercial Expansion', description: 'Expanded into commercial construction projects' },
     { year: '2016', event: 'Civil Engineering Division', description: 'Added infrastructure and civil engineering services' },
     { year: '2019', event: 'Sustainability Focus', description: 'Launched green building and sustainable construction initiatives' },
@@ -89,13 +89,13 @@ const About = () => {
       <section className="relative py-20 bg-gradient-to-br from-primary/10 to-accent/10">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
-            <Badge className="mb-6" variant="secondary">About Synergy Construction</Badge>
+            <Badge className="mb-6" variant="secondary">About U N I Construction</Badge>
             <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
               Building Trust Through
               <span className="text-primary block">Excellence & Innovation</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              For over a decade, Synergy Construction has been a trusted partner in bringing 
+              For over a decade, U N I Construction has been a trusted partner in bringing 
               construction visions to life, combining traditional craftsmanship with modern innovation.
             </p>
           </div>
@@ -310,7 +310,7 @@ const About = () => {
             Ready to Work With Us?
           </h2>
           <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
-            Experience the Synergy difference. Let's discuss how we can bring 
+            Experience the U N I difference. Let's discuss how we can bring 
             your construction project to life with our expertise and dedication.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
